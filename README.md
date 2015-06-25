@@ -1,1 +1,4 @@
-# DNA_2_Amino_acids
+# DNA_2_AMINOACIDS
+
+Python script to find possible sequences of amino acids from input DNA sequence
+
